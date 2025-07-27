@@ -15,5 +15,4 @@ class Storage:
                 return data["chromosomes"]
         except Exception:
             # something went wrong. return an empty list of chromosomes
-            print("json not loaded")
             return []
