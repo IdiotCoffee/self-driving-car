@@ -2,6 +2,8 @@
 
 This project is an application of neural networks using a genetic algorithm. It was created to gain a better understanding of both neural networks and genetic algorithms, following a course on Udemy (link: [Course Link](https://www.udemy.com/course/building-self-driving-cars-in-python-from-scratch/)).
 
+### The video is linked in the releases
+
 ## Overview
 
 The program trains cars to navigate through different tracks using neural networks. The training process is enhanced by a genetic algorithm, which evolves the car's behavior over successive generations.
